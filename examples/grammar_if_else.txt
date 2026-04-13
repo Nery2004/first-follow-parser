@@ -1,0 +1,3 @@
+S -> if E then S X | id
+X -> else S | ε
+E -> true | false
