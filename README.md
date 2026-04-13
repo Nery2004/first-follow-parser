@@ -1,4 +1,4 @@
-# first-follow-parser# First, Follow y Tabla de Análisis Sintáctico Predictivo
+# First, Follow y Tabla de Análisis Sintáctico Predictivo
 
 ## Descripción
 Este proyecto implementa el cálculo de los conjuntos FIRST y FOLLOW para gramáticas libres de contexto, así como la construcción automática de la tabla de análisis sintáctico predictivo.
