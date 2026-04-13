@@ -10,9 +10,7 @@ from src.utils import print_first_sets, print_follow_sets, print_parsing_table
 
 
 def run_grammar(path: str) -> None:
-    print("=" * 80)
     print(f"Archivo: {path}")
-    print("=" * 80)
 
     grammar = Grammar.from_file(path)
 
